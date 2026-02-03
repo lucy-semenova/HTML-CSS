@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exercise 0</title>
+   <link rel="stylesheet" href="styles.css">
+</head>
+  
+<body>
+  <header>
+    <h1> Liudmila Siamionava</h1>
+    
+  </header>
+    <p>Hi! I am Mila, <strong>an educator,  linguist</strong>, transitioning to <strong>Web-development</strong>. I am fond of <em>travelling, reading and knitting</em> </p>
+    <hr>
+ <p> Across several career transitions, I discovered a constant drive to make a practical impact.</p>
+
+ <p>I now combine frontend development with cybersecurity.</p>
+ <p>I value clarity in UX, quality in code, and security that makes sense. </p>
+ <p>You’ll often find me teaching cybersecurity to beginners, doing CTFs for fun, or geeking out over languages and linguistics.</p>
+ <p>Off-screen, I recharge with nature walks, cultural exploration, and good books.</p>
+
+      I also like watching movies and there is a list of ones I watched recently:
+     <ul>
+        <li>Matrix</li> 
+        <li>Green mile</li>
+        <li>Zero day</li>
+     </ul>
+   
+    <p>Recently I have read the following books:</p>
+    <ol>
+      <li>Atomic habits</li>
+      <li>De Glemte Vogterne</li>
+      <li>Bullit diary</li>
+    </ol>
+  <figure>
+  <img src="https://plus.unsplash.com/premium_vector-1734450619165-6b8a6b374951?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fGh5Z2dlJTIwY29kaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600" alt="A girl writing HTML on laptop"/>
+ <figcaption>Diving into HTML</figcaption>  
+ </figure>
+  <p><strong>Thank you for the class!</strong></p>
+</body>
+</html>
